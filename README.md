@@ -6,6 +6,6 @@
         <h1>QUE MAS VE</h1>
     </body>
     <SCRipt>
-        alert"Habla mijin cuando para las vielas"
+        alert="Habla mijin cuando para las vielas"
     </SCRipt>
 </html>
